@@ -1,0 +1,5 @@
+{
+  "name": "Magic Writing Experience",
+  "description": "An AI-powered writing partner that helps you generate lab notes from code, understand complex logic, and predict code outputs. A slick, distraction-free environment to augment your coding and writing workflow.",
+  "requestFramePermissions": []
+}
